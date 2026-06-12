@@ -110,7 +110,7 @@ Welche Aussage beschreibt die Funktion von Moodle-Kursbereichen am treffendsten?
 
 ## Modul 1: Begriffe sauber trennen
 
-![Illustration Modul 1: Eine Schulleitung und ein Admin stehen vor einem großen Moodle-Strukturbaum. Unterschiedliche Karten mit den Begriffen Kursbereich, Kurs, Kohorte, Gruppe und Rolle werden sortiert. Comic-Stil, klare Linien, ruhige Blautöne.](moodle_kursbereiche_modul1.png "Modul 1 – Begriffe sauber trennen")
+![Illustration Modul 1: Eine Schulleitung und ein Admin stehen vor einem großen Moodle-Strukturbaum. Unterschiedliche Karten mit den Begriffen Kursbereich, Kurs, Kohorte, Gruppe und Rolle werden sortiert. Comic-Stil, klare Linien, ruhige Blautöne.](Modul1.png "Modul 1 – Begriffe sauber trennen")
 
 ### 1.1 Die fünf zentralen Bausteine
 
@@ -178,7 +178,7 @@ Ordnen Sie die folgenden Elemente dem passenden Moodle-Baustein zu.
 
 ## Modul 2: Strukturprinzipien anwenden
 
-![Illustration Modul 2: Ein Moodle-Strukturbaum wird mit einer Bauzeichnung verglichen. Links ein chaotischer Baum, rechts eine klare Architektur mit wenigen Hauptebenen. Comic-Stil, sachlich und übersichtlich.](moodle_kursbereiche_modul2.png "Modul 2 – Strukturprinzipien anwenden")
+![Illustration Modul 2: Ein Moodle-Strukturbaum wird mit einer Bauzeichnung verglichen. Links ein chaotischer Baum, rechts eine klare Architektur mit wenigen Hauptebenen. Comic-Stil, sachlich und übersichtlich.](Modul2.png "Modul 2 – Strukturprinzipien anwenden")
 
 ### 2.1 Vier Planungsprinzipien
 
@@ -281,7 +281,7 @@ Welche Strukturentscheidung ist am besten begründet?
 
 ## Modul 3: Fallvergleich – Zwei Schulen, zwei Strukturlogiken
 
-![Illustration Modul 3: Zwei Moodle-Bäume stehen nebeneinander. Links ein überfüllter Baum mit vielen Jahrgängen und Personennamen, rechts ein klarer Baum mit Bildungsgängen, Lernfeldern und Kohorten. Comic-Stil, konstruktiver Vergleich.](moodle_kursbereiche_modul3.png "Modul 3 – Fallvergleich")
+![Illustration Modul 3: Zwei Moodle-Bäume stehen nebeneinander. Links ein überfüllter Baum mit vielen Jahrgängen und Personennamen, rechts ein klarer Baum mit Bildungsgängen, Lernfeldern und Kohorten. Comic-Stil, konstruktiver Vergleich.](Modul3.png "Modul 3 – Fallvergleich")
 
 ### 3.1 Fall A: Die gewachsene Struktur
 
@@ -347,7 +347,7 @@ Welche erste Entscheidung ist fachlich am sinnvollsten?
 
 ## Abschluss: Drei-Klick-Test und Transfer
 
-![Illustration Abschluss: Drei große Klickpunkte führen von der Moodle-Startseite zu einem Lernfeldkurs. Eine Admin-Person prüft den Weg mit einer Checkliste. Comic-Stil, klar und praxisnah.](moodle_kursbereiche_abschluss.png "Abschluss – Drei-Klick-Test")
+![Illustration Abschluss: Drei große Klickpunkte führen von der Moodle-Startseite zu einem Lernfeldkurs. Eine Admin-Person prüft den Weg mit einer Checkliste. Comic-Stil, klar und praxisnah.](Abschluss.png "Abschluss – Drei-Klick-Test")
 
 ### 4.1 Der Drei-Klick-Test
 
@@ -440,17 +440,3 @@ Diese Ergebnisse können direkt in die weitere Moodle-Planung, in eine Admin-Bes
 - MoodleDocs. (2012). *Capabilities/moodle/category:manage*. https://docs.moodle.org/en/Capabilities/moodle/category%3Amanage
 
 ---
-
-## 🧩 Hinweis für das Buchprojekt
-
-Dieser Selbstlernkurs passt besonders gut als LiaScript-Ergänzung nach einem Buchabschnitt zur Moodle-Architekturplanung. Er eignet sich als aktivierender Übergang vom konzeptionellen Architekturmodell zur konkreten Administrationsentscheidung.
-
-**Geeignete didaktische Einbindung im Buch:**
-
-| Didaktisches Element | Mögliche Platzierung |
-|----------------------|----------------------|
-| **Aufgabe** | Eigene Moodle-Struktur mit dem Drei-Klick-Test prüfen |
-| **Beispiel** | Vergleich zwischen gewachsener und geplanter Kursbereichsstruktur |
-| **Merke** | Kursbereiche stabil planen, Zugehörigkeiten beweglich steuern |
-| **Reflexionsfrage** | Welche Strukturentscheidungen erzeugen langfristig Pflegeaufwand? |
-| **H5P** | Sortieraufgabe: Kursbereich, Kurs, Kohorte, Gruppe, Rolle/Recht |
